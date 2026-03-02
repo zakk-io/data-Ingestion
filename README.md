@@ -154,16 +154,4 @@ Which improves retrieval quality in RAG systems.
 * If a file fails → script continues with other files
 * Output folder is created automatically if missing
 
----
-
-## 🔮 Future Improvements (Optional)
-
-You can extend this script to:
-
-* Process subfolders recursively
-* Add chunking logic
-* Export JSON with metadata
-* Add CLI arguments
-* Add logging
-* Add token statistics
 
